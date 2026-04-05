@@ -1,7 +1,7 @@
 # Shipment-Analytics-Dashboard
 <img width="1331" height="723" alt="Screenshot 2026-03-31 152631" src="https://github.com/user-attachments/assets/71e0b0b1-4b97-49db-beef-441d2221b56e" />
 
-What you will learn
+What i will learn
 Data Cleaning and Adding columns with Power Query
 Data Modeling and Star Schema
 How to connect tables
